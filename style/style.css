@@ -83,7 +83,7 @@ body{
 .hero{
   background:
   linear-gradient(rgba(15,23,42,.7),rgba(15,23,42,.7)),
-  url("/assets/Banner.jpg")
+  url("../assets/Banner.jpg")
   center/cover no-repeat;
 
   padding:6rem 5vw;
